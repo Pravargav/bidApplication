@@ -21,7 +21,7 @@ app.get("/insert", async (req, res) => {
   }
 });
 
-
+"
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/IPhone_Series.jpg/1024px-IPhone_Series.jpg
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg/1024px-MacBook_Pro_16_%28M1_Pro%2C_2021%29_-_Wikipedia.jpg
@@ -35,3 +35,4 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/OnePlus_One_%281570332
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dell_Latitude_CPx.jpg/800px-Dell_Latitude_CPx.jpg
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Asus_x21_ultrabook.jpg/1024px-Asus_x21_ultrabook.jpg
+"
